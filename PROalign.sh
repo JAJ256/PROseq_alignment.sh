@@ -8,7 +8,6 @@
 # named "fastq" which contains the data.                  #
 # Fastq files must have identical names other than        #
 # ending in _R1.fastq and _R2.fastq.                      #
-# Author: Julius Judd, jaj256@cornell.edu                 #
 ###########################################################
 
 ## Parameters
