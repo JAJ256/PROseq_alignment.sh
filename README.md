@@ -14,7 +14,9 @@ UMI_LEN: (Integer) length of the UMI in basepairs. The if both 5' and 3' UMIs ar
 
 
 FIVEP_UMI: (String) Set to "Y" if the UMI is on the 5' adapter
+
 THREEP_UMI: (String) Set to "Y" if the UMI is on the 3' adapter
+
 Note: both FIVEP_UMI and THREEP_UMI can be "Y" if there are UMIs on both sides of the insert
 
 ADAPTOR_1 and ADAPTOR_2: (String) adapter sequences to trim. Default is TruSeq Small RNA sequences. These sequences are only here for backup in the case that fastp cannot automatically determine the adapter sequences by overlap analysis.
