@@ -1,5 +1,7 @@
 # PROseq_alignment.sh
 
+[![DOI](https://zenodo.org/badge/254700530.svg)](https://zenodo.org/badge/latestdoi/254700530)
+
 This is a pipeline script for aligning paired-end PRO-seq data that has cells of a different species spiked in for normalization, and uses some combination of random UMI sequences on the ligation end of either the 5' or 3' adapter, or both.
 
 Run this script in a directory that has one folder named "fastq" which contains the data. Fastq files must have identical names other than ending in _R1.fastq and _R2.fastq.
